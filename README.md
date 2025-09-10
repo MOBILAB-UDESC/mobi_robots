@@ -30,12 +30,12 @@ source install/setup.bash
 ### [Arms](https://github.com/MOBILAB-UDESC/arms)
 |Robot|Image|Official source|
 |:---:|:---:|:-------------:|
-|[gen3_lite](https://github.com/MOBILAB-UDESC/arms/tree/main/gen3_lite)|![image](![image](https://raw.githubusercontent.com/MOBILAB-UDESC/arms/main/gen3_lite/gen3_lite.png))|[Kinova](https://github.com/Kinovarobotics/ros2_kortex/tree/main)|
+|[gen3_lite](https://github.com/MOBILAB-UDESC/arms/tree/main/gen3_lite)|<img src="https://raw.githubusercontent.com/MOBILAB-UDESC/arms/main/gen3_lite/gen3_lite.png" alt="gen3_lite" width="100"/>|[Kinova](https://github.com/Kinovarobotics/ros2_kortex/tree/main)|
 
 ### [Grippers](https://github.com/MOBILAB-UDESC/arms/tree/main/grippers)
 |Robot|Image|Official source|
 |:---:|:---:|:-------------:|
-|[kinova_2f_lite](https://github.com/MOBILAB-UDESC/arms/tree/main/gen3_lite)|![image](https://raw.githubusercontent.com/MOBILAB-UDESC/arms/main/grippers/kinova_2f_lite/kinova_2f_lite.png)|[Kinova](https://github.com/Kinovarobotics/ros2_kortex/tree/main)|
+|[kinova_2f_lite](https://github.com/MOBILAB-UDESC/arms/tree/main/gen3_lite)|<img src="https://raw.githubusercontent.com/MOBILAB-UDESC/arms/main/grippers/kinova_2f_lite/kinova_2f_lite.png" alt="gen3_lite" width="150"/>|[Kinova](https://github.com/Kinovarobotics/ros2_kortex/tree/main)|
 
 ### [Mobile robots]()
 |Robot|Image|Official source|
