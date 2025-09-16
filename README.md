@@ -35,10 +35,9 @@ source install/setup.bash
 ### [Grippers](https://github.com/MOBILAB-UDESC/arms/tree/main/grippers)
 |Robot|Image|Official source|
 |:---:|:---:|:-------------:|
-|[kinova_2f_lite](https://github.com/MOBILAB-UDESC/arms/tree/main/gen3_lite)|<img src="https://raw.githubusercontent.com/MOBILAB-UDESC/arms/main/grippers/kinova_2f_lite/kinova_2f_lite.png" alt="gen3_lite" width="150"/>|[Kinova](https://github.com/Kinovarobotics/ros2_kortex/tree/main)|
+|[kinova_2f_lite](https://github.com/MOBILAB-UDESC/arms/tree/main/gen3_lite)|<img src="https://raw.githubusercontent.com/MOBILAB-UDESC/arms/main/grippers/kinova_2f_lite/kinova_2f_lite.png" alt="kinova_2f_lite" width="150"/>|[Kinova](https://github.com/Kinovarobotics/ros2_kortex/tree/main)|
 
 ### [Mobile robots]()
 |Robot|Image|Official source|
 |:---:|:---:|:-------------:|
-|[jackal]()|![image]()|[Clearpath](https://github.com/jackal)|
-
+|[jackal](https://github.com/MOBILAB-UDESC/mobile_robots/tree/main/jackal)|<img src="https://raw.githubusercontent.com/MOBILAB-UDESC/mobile_robots/main/jackal/jackal.png" alt="jackal" width="150"/>|[Clearpath](https://github.com/jackal)|
